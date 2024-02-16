@@ -1,5 +1,6 @@
 {
   "name": "travel_website",
+  "homepage": "http://travelwale.com",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
